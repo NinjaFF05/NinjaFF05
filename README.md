@@ -25,8 +25,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wahib-LYOUBI&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Wahib's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahib-LYOUBI&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahib-LYOUBI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Wahib's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahib-LYOUBI&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wahib-LYOUBI&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Wahib-LYOUBI&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wahib-LYOUBI&theme=flat&no-frame=true&column=5&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Wahib-LYOUBI&theme=tokyonight&no-frame=true&column=5&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahib-LYOUBI&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahib-LYOUBI&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wahib-LYOUBI&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Wahib-LYOUBI&style=flat-square&color=7c3aed" alt="Profile views" />
 </p>
