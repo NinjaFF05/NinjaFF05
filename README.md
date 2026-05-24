@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Wahib 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · Building for the web, one commit at a time.<br/>
+  <b>Software Engineer</b> · <i>"If you're hungry, eat."</i> — Monkey D. Luffy 🍖<br/>
   📍 Morocco &nbsp;|&nbsp; 💼 Open to collaborations &nbsp;|&nbsp; 🌐 Open Source Enthusiast
 </p>
 
